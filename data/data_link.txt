@@ -1,3 +1,10 @@
+Dataset used:
+https://www.kaggle.com/datasets
+
+Description:
+This dataset contains images of metal surfaces with different types of defects, used to train the model for classification.
+
+
 https://universe.roboflow.com/thesis-project-equzz/aircraft-skin-defects-classification-new-dataset
 
 or 
