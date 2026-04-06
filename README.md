@@ -24,9 +24,9 @@ This project aims to develop an image recognition system to detect defects on ai
 
 ## 👥 Team Members
 
-* Your Name – Model development
-* Teammate 1 – Data collection
-* Teammate 2 – Documentation & presentation
+* XX – Model development
+* XX – Data collection
+* Annemarija – Documentation & presentation
 
 ## 📁 Repository Structure
 
