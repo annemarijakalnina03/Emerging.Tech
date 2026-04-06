@@ -1,0 +1,6 @@
+https://universe.roboflow.com/thesis-project-equzz/aircraft-skin-defects-classification-new-dataset
+
+or 
+
+
+https://www.kaggle.com/datasets/fatimaazfarziya/aircraft-defects-image-data?select=Data
