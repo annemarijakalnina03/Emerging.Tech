@@ -1,7 +1,18 @@
-Meeting 1:
+Meeting 1: (21.03)
 - Chose project topic
 - Assigned roles
-
-Meeting 2:
 - Dataset selected
+
+Meeting 2:(22.03)
 - Started preprocessing
+- Reviewed CNN
+- Built initial CNN model
+
+Meeting 3:(29.03)
+- Trained the model 
+- Generated accuracy and validation graphs
+
+Meeting 4:(04.04)
+- Observed prediction outputs
+- Finalized Results 
+- Created Presentation 
