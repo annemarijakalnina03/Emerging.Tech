@@ -1,13 +1,6 @@
 Dataset used:
-https://www.kaggle.com/datasets
+https://www.kaggle.com/datasets/fatimaazfarziya/aircraft-defects-image-data?select=Data
 
 Description:
 This dataset contains images of metal surfaces with different types of defects, used to train the model for classification.
 
-
-https://universe.roboflow.com/thesis-project-equzz/aircraft-skin-defects-classification-new-dataset
-
-or 
-
-
-https://www.kaggle.com/datasets/fatimaazfarziya/aircraft-defects-image-data?select=Data
