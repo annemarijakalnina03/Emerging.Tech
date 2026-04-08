@@ -1,13 +1,12 @@
 aircraft-defect-detection/
 │
 ├── README.md
-├── requirements.txt
 │
 ├── data/
 │   └── dataset_link.txt
 │
-├── notebooks/
-│   └── model_training.ipynb
+├── notepads/
+│   └── Aircraft_Surface_Defect_Detection.ipynb
 │
 ├── results/
 │   ├── accuracy_plot.png
@@ -15,8 +14,5 @@ aircraft-defect-detection/
 │   └── predictions/
 │
 ├── docs/
-│   ├── meeting_notes.md
-│   └── gantt_chart.png
-│
-└── presentation/
-    └── slides.pdf
+│   ├── meeting_minutes.md
+│   └── task_delegation.md
