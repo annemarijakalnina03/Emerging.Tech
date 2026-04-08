@@ -11,8 +11,6 @@ aircraft-defect-detection/
 ├── results/
 │   ├── accuracy_plot.png
 │   ├── loss_plot.png
-│   └── predictions/
 │
 ├── docs/
 │   ├── meeting_minutes.md
-│   └── task_delegation.md
