@@ -19,7 +19,7 @@ This project aims to develop an image recognition system to detect defects on ai
 
 ## 📊 Results
 
-* Model achieved ~85–95% accuracy 
+* Model achieved 60+% accuracy 
 * Successfully classified defects in test images
 
 ## 👥 Team Members
