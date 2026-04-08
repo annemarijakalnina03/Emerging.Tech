@@ -15,26 +15,25 @@ This project aims to develop an image recognition system to detect defects on ai
 * Dataset collected from online sources (Kaggle)
 * Images preprocessed (resized, normalized)
 * CNN model used for classification
-* Model trained and evaluated using TensorFlow
+* Model trained and evaluated
 
 ## 📊 Results
 
-* Model achieved ~85–95% accuracy (depending on dataset)
+* Model achieved ~85–95% accuracy 
 * Successfully classified defects in test images
 
 ## 👥 Team Members
 
-* Serafims – Model development
-* XX – Data collection
-* Annemarija – Documentation & presentation
+* Serafims 
+* Aldiyar 
+* Annemarija 
 
 ## 📁 Repository Structure
 
-* `notebooks/` – model training code
+* `notepads/` – model training code
 * `data/` – dataset information
 * `results/` – outputs and graphs
 * `docs/` – project documentation
-* `presentation/` – slides
 
 ## 🚀 Future Work
 
