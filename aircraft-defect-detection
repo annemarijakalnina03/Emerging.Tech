@@ -15,7 +15,6 @@ aircraft-defect-detection/
 │   └── predictions/
 │
 ├── docs/
-│   ├── methodology.md
 │   ├── meeting_notes.md
 │   └── gantt_chart.png
 │
